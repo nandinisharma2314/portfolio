@@ -1,5 +1,5 @@
 import productImg from "../assets/projects/productr.jpeg";
-import newshubImg from "../assets/projects/newshub(1).jpeg";
+import newshubImg from "../assets/projects/newshub.png";
 import inotebookImg from "../assets/projects/inotebook.jpeg";
 import textutilsImg from "../assets/projects/textutils.jpeg";
 
