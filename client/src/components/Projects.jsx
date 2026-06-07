@@ -1,5 +1,5 @@
 import productImg from "../assets/projects/productr.jpeg";
-import newshubImg from "../assets/projects/textutils.jpeg";
+import newshubImg from "../assets/projects/newshub(1).jpeg";
 import inotebookImg from "../assets/projects/inotebook.jpeg";
 import textutilsImg from "../assets/projects/textutils.jpeg";
 
@@ -105,7 +105,7 @@ My Work </p>
             </a>
 
             <a
-              href="https://newshub-pied-ten.vercel.app/"
+              href="https://newshub-1.vercel.app/"
               className="bg-violet-600 px-4 py-2 rounded-lg"
             >
               Demo
