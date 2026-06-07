@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import resumePDF from "../assets/resume/resume.pdf";
+import resumePDF from "../assets/resume/nandini_resume.pdf";
 const Hero = () => {
   return (
     <section className="min-h-screen flex items-center">
